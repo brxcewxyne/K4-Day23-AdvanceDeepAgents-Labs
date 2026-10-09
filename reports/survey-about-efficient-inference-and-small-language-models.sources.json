@@ -1,0 +1,490 @@
+[
+  {
+    "n": 1,
+    "id": "2609.30854",
+    "url": "https://arxiv.org/abs/2609.30854",
+    "title": "The KV Cache Is the New Memory Wall (SoK / measurement protocol)",
+    "date": "2026-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2410.09426",
+    "url": "https://huggingface.co/papers/2410.09426",
+    "title": "FlatQuant: W4A4 PTQ with learned affine transforms",
+    "date": "2024-10-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2507.18073",
+    "url": "https://arxiv.org/abs/2507.18073",
+    "title": "Squeeze10-LLM: 10x weight squeeze (average 1.6 bits)",
+    "date": "2025-07-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2502.13179",
+    "url": "https://arxiv.org/abs/2502.13179",
+    "title": "PTQ1.61: pushing weight-only PTQ to 1.61 bits",
+    "date": "2025-02-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2604.07888",
+    "url": "https://arxiv.org/abs/2604.07888",
+    "title": "Bit-by-Bit: progressive QAT with outlier channel splitting (W2A2)",
+    "date": "2026-04-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2506.18879",
+    "url": "https://huggingface.co/papers/2506.18879",
+    "title": "CommVQ: RoPE-commutative vector quantization of the KV cache",
+    "date": "2025-06-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2502.14051",
+    "url": "https://arxiv.org/abs/2502.14051",
+    "title": "RocketKV: two-stage training-free KV cache compression",
+    "date": "2025-02-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2607.16248",
+    "url": "https://arxiv.org/abs/2607.16248",
+    "title": "DGAP: local distribution restoration for 1-bit KV cache",
+    "date": "2026-06-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+    "date": "2025-02-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2601.08584",
+    "url": "https://huggingface.co/papers/2601.08584",
+    "title": "Ministral 3",
+    "date": "2026-01-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2406.10290",
+    "url": "https://arxiv.org/abs/2406.10290",
+    "title": "MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2403.12844v4",
+    "url": "https://arxiv.org/html/2403.12844v4",
+    "title": "MELTing Point: Mobile Evaluation of Language Transformers",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2508.15478",
+    "url": "https://arxiv.org/html/2508.15478v1",
+    "title": "SLM-Bench: A Comprehensive Benchmark of Small Language Models on Environmental Impacts",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/abs/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-04-22",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2410.20011",
+    "url": "https://arxiv.org/abs/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "10.1145/3768165",
+    "url": "https://dl.acm.org/doi/full/10.1145/3768165",
+    "title": "A Comprehensive Survey of Small Language Models in the Era of Large Language Models",
+    "date": "2025-11-24",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2409.15790",
+    "url": "https://huggingface.co/papers/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights (arXiv page)",
+    "date": "2025-02-26",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "rzmkvs6ymsg",
+    "url": "https://exa.ai/library/publication/rzmkvs6ymsg",
+    "title": "A Survey on On-Device Small Language Models: Architectures, Compression, Applications, and Open Challenges",
+    "date": "2026-02-06",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "2306.00978",
+    "url": "https://huggingface.co/papers/2306.00978",
+    "title": "AWQ: Activation-aware Weight Quantization (weight-only 3/4-bit)",
+    "date": "2023-06-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "PagedAttention / vLLM: virtual-memory paging of the KV cache",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2401.15077",
+    "url": "https://huggingface.co/papers/2401.15077",
+    "title": "EAGLE: feature-level speculative sampling (draft model)",
+    "date": "2024-01-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2402.04396",
+    "url": "https://arxiv.org/abs/2402.04396",
+    "title": "QuIP#: Sub-4-bit weight-only PTQ with lattice codebooks",
+    "date": "2024-02-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2606.13054",
+    "url": "https://arxiv.org/abs/2606.13054",
+    "title": "TWLA: ternary weights + low-bit activations via PTQ (W1.58A4)",
+    "date": "2026-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2605.11222",
+    "url": "https://arxiv.org/abs/2605.11222",
+    "title": "ADMM-Q: improved Hessian-based weight quantizer, composable with GPTQ pipelines",
+    "date": "2026-05-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "2610.07767",
+    "url": "https://huggingface.co/papers/2610.07767",
+    "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 RL of MoE Language Models",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 27,
+    "id": "2509.14230",
+    "url": "https://huggingface.co/papers/2509.14230",
+    "title": "NIRVANA: structured pruning with NTK-based saliency",
+    "date": "2025-09-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "2609.22131",
+    "url": "https://arxiv.org/abs/2609.22131",
+    "title": "Correlation-Aware Structured Pruning for LLMs",
+    "date": "2026-08-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "2502.07780",
+    "url": "https://huggingface.co/papers/2502.07780",
+    "title": "DarwinLM: evolutionary training-aware structured pruning",
+    "date": "2025-02-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "2503.11816",
+    "url": "https://arxiv.org/abs/2503.11816",
+    "title": "Key, Value, Compress: systematic survey of KV-cache compression",
+    "date": "2025-03-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 31,
+    "id": "2605.08317",
+    "url": "https://arxiv.org/abs/2605.08317",
+    "title": "RDKV: rate-distortion joint eviction + quantization of the KV cache",
+    "date": "2026-05-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 32,
+    "id": "2603.08743",
+    "url": "https://arxiv.org/abs/2603.08743",
+    "title": "Zipage: Compressed PagedAttention for high-concurrency reasoning serving",
+    "date": "2026-03-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "2604.00235",
+    "url": "https://arxiv.org/abs/2604.00235",
+    "title": "MAC-Attention: match-amend-complete attention reuse for long-context decoding",
+    "date": "2026-03-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "2609.38121",
+    "url": "https://huggingface.co/papers/2609.38121",
+    "title": "WUSH-KV: data-adaptive transforms for 2-bit KV-cache quantization",
+    "date": "2026-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "2609.38169",
+    "url": "https://huggingface.co/papers/2609.38169",
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "date": "2026-09-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 36,
+    "id": "2404.09526",
+    "url": "https://arxiv.org/abs/2404.09526",
+    "title": "LoongServe: elastic sequence parallelism for long-context serving",
+    "date": "2024-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 37,
+    "id": "2504.09285",
+    "url": "https://arxiv.org/abs/2504.09285",
+    "title": "DynaServe: unified elastic execution for dynamic disaggregated serving",
+    "date": "2025-04-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 38,
+    "id": "2609.39068",
+    "url": "https://huggingface.co/papers/2609.39068",
+    "title": "SparseEngine: Sparse-First Inference Engine (KV cache / serving)",
+    "date": "2026-09-30",
+    "source": "hf-daily"
+  },
+  {
+    "n": 39,
+    "id": "2606.24957",
+    "url": "https://arxiv.org/abs/2606.24957",
+    "title": "Dustin: draft-augmented sparse verification for long-context speculative decoding",
+    "date": "2026-06-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 40,
+    "id": "2610.02800",
+    "url": "https://arxiv.org/abs/2610.02800",
+    "title": "BitNest: bit-nested self-speculative decoding for memory-efficient acceleration",
+    "date": "2026-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 41,
+    "id": "2609.33184",
+    "url": "https://arxiv.org/abs/2609.33184",
+    "title": "SpecStream: resource-efficient speculative decoding for long-context serving",
+    "date": "2026-09-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 42,
+    "id": "2610.04875",
+    "url": "https://huggingface.co/papers/2610.04875",
+    "title": "SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion LMs",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 43,
+    "id": "2609.36860",
+    "url": "https://huggingface.co/papers/2609.36860",
+    "title": "IronLLM: Forging Compact Edge-Native Language Models for Real-Time Embodied Intelligence",
+    "date": "2026-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 44,
+    "id": "2609.34117",
+    "url": "https://huggingface.co/papers/2609.34117",
+    "title": "SlimWise: Decoupling Expert Pruning Across Prefill and Decode for Efficient MoE Serving",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 45,
+    "id": "40535",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/download/40535/44496",
+    "title": "TokenPowerBench: Benchmarking the Power Consumption of LLM Inference",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 46,
+    "id": "2401.02385",
+    "url": "https://huggingface.co/papers/2401.02385",
+    "title": "TinyLlama: An Open-Source Small Language Model",
+    "date": "2024-01-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 47,
+    "id": "2511.19496",
+    "url": "https://huggingface.co/papers/2511.19496",
+    "title": "Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM",
+    "date": "2025-11-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 48,
+    "id": "2504.15027",
+    "url": "https://huggingface.co/papers/2504.15027",
+    "title": "DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models",
+    "date": "2025-04-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 49,
+    "id": "2511.01354",
+    "url": "https://arxiv.org/abs/2511.01354",
+    "title": "DistilQwen: industrial distilled reasoning / reward model series",
+    "date": "2025-11-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 50,
+    "id": "2605.08094",
+    "url": "https://arxiv.org/abs/2605.08094",
+    "title": "MedThink: two-stage teacher-guided reasoning distillation for SLMs",
+    "date": "2026-04-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 51,
+    "id": "2502.12143",
+    "url": "https://huggingface.co/papers/2502.12143",
+    "title": "Small Models Struggle to Learn from Strong Reasoners (Mix Distillation)",
+    "date": "2025-02-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 52,
+    "id": "2608.27729",
+    "url": "https://arxiv.org/abs/2608.27729",
+    "title": "Below the Noise Floor: seed variance undermines reported KD gains",
+    "date": "2026-08-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 53,
+    "id": "2610.08448",
+    "url": "https://huggingface.co/papers/2610.08448",
+    "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 54,
+    "id": "2610.01892",
+    "url": "https://huggingface.co/papers/2610.01892",
+    "title": "Selection-Based Structured Reasoning (SSR): Efficient Multimodal Search Agents",
+    "date": "2026-10-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 55,
+    "id": "2602.13367",
+    "url": "https://huggingface.co/papers/2602.13367",
+    "title": "Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts",
+    "date": "2026-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 56,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 57,
+    "id": "2505.16508",
+    "url": "https://arxiv.org/abs/2505.16508",
+    "title": "Edge-First Language Model Inference: Models, Metrics, and Tradeoffs",
+    "date": "2025-05-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 58,
+    "id": "2310.03003",
+    "url": "https://arxiv.org/abs/2310.03003",
+    "title": "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 59,
+    "id": "2505.06371v1",
+    "url": "https://arxiv.org/html/2505.06371v1",
+    "title": "ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 60,
+    "id": "2505.02309v2",
+    "url": "https://arxiv.org/abs/2505.02309v2",
+    "title": "Survey: Optimizing LLMs for Resource-Constrained Environments (KD / quantization / pruning)",
+    "date": "2025-05-05",
+    "source": "web"
+  },
+  {
+    "n": 61,
+    "id": "2607.13080v1",
+    "url": "https://arxiv.org/html/2607.13080v1",
+    "title": "Cloud vs. On-Premise LLM Deployment: A Case Study",
+    "date": "n.d.",
+    "source": "web"
+  }
+]
