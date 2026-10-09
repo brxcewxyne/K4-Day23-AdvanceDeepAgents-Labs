@@ -1,0 +1,27 @@
+{
+  "topic": "survey about video and multimodal generation",
+  "model": "deepseek-v4.1-flash",
+  "elapsed_s": 995.8,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "ls": 3,
+    "read_file": 16,
+    "glob": 1,
+    "write_todos": 3,
+    "task": 5,
+    "write_file": 2,
+    "execute": 4,
+    "edit_file": 6
+  },
+  "tokens": {
+    "input": 1196322,
+    "output": 34383
+  },
+  "n_sources": 41,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}
